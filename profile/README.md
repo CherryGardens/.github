@@ -1,1 +1,1 @@
-<img src="https://i.ibb.co/mJZyZ60/cooltext411848345726297.gif"/>
+<img src="https://raw.githubusercontent.com/CherryGardens/v2/main/images/cherry.png"/>
